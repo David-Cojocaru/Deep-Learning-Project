@@ -5,6 +5,24 @@
 Amazon Book User Review Score Predictor
   <br>
 
+</h1>
+  <p align="center">
+    David Cojocaru</a> •
+    Ori Hagler</a>
+  </p>
+
+## Overview
+
+- Final Project of the Technion ECE 046211 - Deep Learning Course
+- Spring 2023 Semester
+- Authers: David Cojocaru, Ori Hagler
+
+## Description
+
+We used the Amazon Book Reviews dataset containing 3M user reviews of market available books to make a predictor for the user score assigned to the fitting review.
+As a base for this project, we used the BertForSequenceClassification pre-trained model, and fine-tuned it to fit a 1-5 score predictor, similar to a non-binary sentiment classification.
+We integrated transfer-learming on a transformer model while using techniques like pruning of the model, AMP, and optimal hyper parameter search using Optuna.
+
 ## Preparing The Nessecery Files
 To run this notebook, you first need to download a pre-trained model and a .json file.
 Once you have all the files, you may want to configurate the file paths to match those written in the notebook
