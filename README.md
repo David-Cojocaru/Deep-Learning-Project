@@ -4,7 +4,7 @@
   <br>
 Amazon Book User Review Score Predictor
   <br>
-  <img src="https://raw.githubusercontent.com/David-Cojocaru/Deep-Learning-Project/assets/AmazonBookReviews.png" height="200">
+  <img src="https://raw.githubusercontent.com/David-Cojocaru/Deep-Learning-Project/main/assets/AmazonBookReviews.png" height="200">
 </h1>
   <p align="center">
     David Cojocaru</a> •
